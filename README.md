@@ -1,2 +1,5 @@
 # hello-world
-where it begins
+where it progresses 
+
+some other things that are worth reading
+Finished
