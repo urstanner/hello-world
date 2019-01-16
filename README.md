@@ -1,2 +1,2 @@
 # hello-world
-where it begins
+where it progresses 
